@@ -1,1 +1,1 @@
-Repo para envio do desafio de backend para a Shopper
+Repo para envio do desafio fullstack para a Shopper
